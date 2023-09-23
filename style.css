@@ -1,0 +1,63 @@
+* {
+    margin: 0; /*margem, espaçamento externo*/
+    padding: 0; /*preenchimento, espaçamento interno*/
+    box-sizing: border-box; /*aceita as medidas que eu especificar*/
+  }
+  header{ padding-inline: 30px;
+          background-color: blueviolet;
+          height: 100px;
+          color: blanchedalmond;
+          padding-top: 50px;
+          
+          
+  }
+
+  li{ display: inline;
+  font-size: 20px;
+  margin-left: 85px;
+  margin-top: 100px;
+color: azure;}
+ 
+
+footer{ background-color: blueviolet;
+height: 120px;
+margin-top: 150px;
+
+}
+
+
+div{ display: inline-block ;
+margin-left: 100px;
+  margin-top: 30px;
+  border: solid blueviolet;
+}
+img{ width: 180px;
+height: 150px;
+}
+  
+figcaption{
+  margin-left: 70px;
+  margin-top: 20px;
+}
+button{
+  margin-left: 70px;
+}
+form{
+margin-left: 60px;
+  margin-top: 50px;
+  width: 50px;
+}
+  
+.formdois{
+  display: inline;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+ 
+h3{
+  margin-left: 50px;
+}
+  
+    
+    
+ 
