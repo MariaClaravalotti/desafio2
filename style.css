@@ -55,7 +55,12 @@ margin-left: 60px;
 h3{
   margin-left: 50px;
 }
-  
+.enviar{
+  background-color: pink;
+  color: black;
+  width: 10vw;
+  height: 4vh;
+}
     
     
  
